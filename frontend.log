@@ -1,0 +1,5 @@
+
+> stock-trends-frontend@0.1.0 start
+> PORT=8080 react-scripts start
+
+Something is already running on port 8080.

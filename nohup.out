@@ -26,3 +26,6 @@ Watchpack Error (initial scan): Error: EACCES: permission denied, scandir '/data
 Watchpack Error (initial scan): Error: EACCES: permission denied, scandir '/'
 Compiled successfully!
 webpack compiled successfully
+Compiling...
+Compiled successfully!
+webpack compiled successfully
